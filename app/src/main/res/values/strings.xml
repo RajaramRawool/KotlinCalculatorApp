@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="write_message">Write Message</string>
+    <string name="print">Print</string>
+    <string name="message">Message</string>
+</resources>
